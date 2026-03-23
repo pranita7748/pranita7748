@@ -73,11 +73,6 @@ I am passionate about:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranita7748&show_icons=true)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=pranita7748)
 
 ## 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranita7748&layout=compact)
