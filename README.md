@@ -1,7 +1,7 @@
-# 💻 [Your Name]
+# 💻 Pranita Pravin Patil
 
 ## About Me
-Hi, I’m **[Your Name]**, a **[Your Role/Student/Professional Title]** specializing in **[Your Domain]**.
+Hi, I’m **Pranita Pravin Patil**, a **[Your Role/Student/Professional Title]** specializing in **[Your Domain]**.
 
 I am passionate about:
 - [Interest 1]
