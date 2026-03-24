@@ -72,7 +72,7 @@ I am passionate about:
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/pranita7748  
-- LinkedIn: *Add your LinkedIn link*  
+- LinkedIn: https://www.linkedin.com/in/pranita-patil-0685762a8/  
 - Email: patilpranita8788@gmail.com  
 
 ---
